@@ -1,4 +1,0 @@
-# hello-world
-learning how to use it
-
-Hello,World.
